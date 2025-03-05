@@ -6,7 +6,7 @@ module.exports = [
     name: "strapi::cors",
     config: {
       enabled: true,
-      origin: ["https://uhmo-shop.netlify.app"],
+      origin: ["http://localhost:5174"],
     },
   },
   "strapi::poweredBy",

@@ -8,11 +8,11 @@ module.exports = ({ env }) => ({
   },
   admin: {
     auth: {
-      secret: env("ADMIN_JWT_SECRET"), // Asegúrate de establecer esta variable de entorno
+      secret: env("ADMIN_JWT_SECRET"),
     },
 
     path: "/admin",
-    build: path.join(__dirname, "build"), // Ruta a la carpeta build en la raíz del proyecto
+    build: path.join(__dirname, "build"),
   },
   webhooks: {
     populateRelations: env.bool("WEBHOOKS_POPULATE_RELATIONS", false),
