@@ -1,0 +1,9 @@
+.cuenta-regresiva {
+  position: absolute;
+  top: 100%;
+  right: 20%;
+  margin-top: 3px;
+  transform: translate(-50%, -50%);
+  color: #4f39f6;
+  text-align: center;
+}

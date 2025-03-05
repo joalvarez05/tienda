@@ -1,0 +1,24 @@
+.bottom-line {
+  width: 100%;
+  border-bottom: 1px solid #edebeb;
+}
+.img-carrito {
+  width: 100%;
+  max-width: 300px;
+  max-height: 170px;
+  object-fit: contain;
+  border-radius: 8px;
+  aspect-ratio: 16/9;
+}
+
+.btn-quantity-container {
+  border: 1px solid #edebeb;
+  border-radius: 6px;
+  height: 35px;
+}
+
+.sombra {
+  border: none;
+  border-bottom: 0.5px solid rgb(194, 194, 194);
+  border-top: 0.5px solid rgb(194, 194, 194);
+}

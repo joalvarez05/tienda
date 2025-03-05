@@ -1,0 +1,73 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "Home",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "empresa": {
+      "type": "string",
+      "required": true,
+      "maxLength": 25
+    },
+    "logoEmpresa": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "descripcionSuperior": {
+      "type": "string",
+      "maxLength": 40
+    },
+    "direccion": {
+      "type": "string",
+      "required": true,
+      "maxLength": 40,
+      "regex": "^[a-zA-Z0-9\\s]{1,40}$"
+    },
+    "ciudad": {
+      "type": "string",
+      "regex": "^[a-zA-Z\\s]{1,40}$",
+      "required": true,
+      "maxLength": 40,
+      "minLength": 3
+    },
+    "telefono": {
+      "type": "biginteger",
+      "required": true,
+      "max": "15",
+      "min": "9"
+    },
+    "email": {
+      "type": "email",
+      "required": false,
+      "maxLength": 256
+    },
+    "instagram": {
+      "type": "string",
+      "maxLength": 60,
+      "minLength": 5
+    },
+    "horarioAperturaLunesViernes": {
+      "type": "time"
+    },
+    "horarioCierreLunesViernes": {
+      "type": "time"
+    },
+    "horarioAperturaFinDeSemana": {
+      "type": "time"
+    },
+    "horarioCierreFinDeSemana": {
+      "type": "time"
+    }
+  }
+}

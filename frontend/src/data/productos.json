@@ -1,0 +1,117 @@
+[
+  {
+    "id": "0004",
+    "nombre": "Zapatillas",
+    "marca": "Nike",
+    "modelo": "Revolution 6",
+    "precio": "79999",
+    "stock": "6",
+    "detalles": {
+      "descripcion": "Revolution 6 mujer",
+      "color": "Negra",
+      "talla": "42"
+    },
+    "imagenes": "https://media2.solodeportes.com.ar/media/catalog/product/cache/a0bd03cb38235cf9ca6c3c8cbea4afc1/z/a/zapatillas-running-nike-revolution-6-next-nature-mujer-negra--510010dc3729003-1.jpg",
+    "alt": "zapatillas nike revolotion 6"
+  },
+  {
+    "id": "0005",
+    "nombre": "Zapatillas",
+    "marca": "Nike",
+    "modelo": "Pegasus Z",
+    "precio": "74999",
+    "stock": "5",
+    "detalles": {
+      "descripcion": "Pegasus Z",
+      "color": "Negra y amarillo",
+      "talla": "44"
+    },
+    "imagenes": "https://sporting.vtexassets.com/arquivos/ids/1342030-800-800?v=638566647816030000&width=800&height=800&aspect=true",
+    "alt": "zapatillas nike Pegasus Z"
+  },
+
+  {
+    "id": "0007",
+    "nombre": "Zapatillas",
+    "marca": "Adidas",
+    "modelo": "Predator",
+    "precio": "104999",
+    "stock": "21",
+    "detalles": {
+      "descripcion": "Predator Hombre",
+      "color": "Azul",
+      "talla": "42"
+    },
+    "imagenes": "https://sporting.vtexassets.com/arquivos/ids/1859672-1600-1600?v=638742786461300000&width=1600&height=1600&aspect=true",
+    "alt": "Zapatillas Adidas Predator"
+  },
+  {
+    "id": "0008",
+    "nombre": "Zapatillas",
+    "marca": "Nike",
+    "modelo": "Pegasus Z",
+    "precio": "74999",
+    "stock": "5",
+    "detalles": {
+      "descripcion": "Pegasus Z",
+      "color": "Negra y amarillo",
+      "talla": "44"
+    },
+    "imagenes": "https://sporting.vtexassets.com/arquivos/ids/1342030-800-800?v=638566647816030000&width=800&height=800&aspect=true",
+    "alt": "zapatillas nike pegasus z"
+  },
+  {
+    "id": "0009",
+    "nombre": "Zapatillas",
+    "marca": "Adidas",
+    "modelo": "Grand Court",
+    "precio": "30000",
+    "stock": "33",
+    "detalles": {
+      "descripcion": "Grand Court Lifestyle",
+      "color": "Azul",
+      "talla": "42"
+    },
+    "imagenes": "https://mateuarg.vtexassets.com/arquivos/ids/608364-800-auto?v=638652967298600000&width=800&height=auto&aspect=true",
+    "alt": "zapatillas adidas grand court lifestyle"
+  },
+  {
+    "id": "012",
+    "nombre": "Zapatillas",
+    "marca": "Adidas",
+    "modelo": "Falcon 5",
+    "precio": "56000",
+    "stock": "90",
+    "detalles": {
+      "descripcion": "Run Falcon 5",
+      "color": "Azul",
+      "talla": "42"
+    },
+    "imagenes": "https://www.opensports.com.ar/media/catalog/product/cache/a6c7e1c8e1ee3bec21df5432c2a808a3/i/h/ih7758_0.jpg",
+    "alt": "zapatillas adidas run falcon 5"
+  },
+  {
+    "id": "033",
+    "nombre": "Pollo",
+    "marca": "Pollo",
+    "precio": "6800",
+    "stock": "33",
+    "detalles": {
+      "descripcion": "patamuslos deshuesados"
+    },
+    "imagenes": "https://acdn-us.mitiendanube.com/stores/001/924/637/products/pollo-trozado11-6c6b50871c811be64616416040788526-640-0.png",
+    "alt": "patamuslo"
+  },
+  {
+    "id": "027",
+    "nombre": "Pollo",
+    "marca": "Pollo",
+    "precio": "6200",
+    "stock": "21",
+    "detalles": {
+      "descripcion": "patamuslos entero"
+    },
+    "imagenes": "https://http2.mlstatic.com/D_NQ_NP_816525-MLA46620636513_072021-O.webp",
+    "alt": "patamuslo"
+  }
+]

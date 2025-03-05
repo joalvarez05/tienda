@@ -1,0 +1,94 @@
+[
+  {
+    "empresa": {
+      "id": "0",
+      "nombre": "Jumbo Tucumán",
+      "descripcion": "Somos una empresa dedicada a la venta minorista, con años de experiencia en el mercado y un enfoque en calidad.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_Jumbo_Cencosud.png",
+      "direccion": {
+        "calle": "Fermin Cariola",
+        "numero": "42",
+        "ciudad": "Yerba Buena",
+        "provincia": "Tucumán",
+        "codigo_postal": "4107",
+        "pais": "Argentina"
+      },
+      "contacto": {
+        "telefono": "+52 123 456 7890",
+        "whatsapp": "+52 123 456 7890",
+        "email": "contacto@tabaqueriatuc.com",
+        "pagina_web": "https://www.jumbo.com.ar"
+      },
+      "horarios": {
+        "lunes_viernes": "09:00 AM - 10:00 PM",
+        "sabado": "09:00 AM - 10:00 PM",
+        "domingo": "09:00 AM - 10:00 PM"
+      },
+      "redes_sociales": {
+        "instagram": "@jumboargentina",
+        "instagram_url": "https://www.instagram.com/jumbotucuman"
+      }
+    }
+  },
+  {
+    "empresa": {
+      "id": "2",
+      "nombre": "Pollito Pio",
+      "descripcion": "Empresa dedicada a la producciójn y venta de pollo",
+      "logo": "#",
+      "direccion": {
+        "calle": "Romano",
+        "numero": "710",
+        "ciudad": "Yerba Buena",
+        "provincia": "Tucumán",
+        "codigo_postal": "4107",
+        "pais": "Argentina"
+      },
+      "contacto": {
+        "telefono": "+52 123 456 7890",
+        "whatsapp": "+52 123 456 7890",
+        "email": "contacto@pollo.com",
+        "pagina_web": "#"
+      },
+      "horarios": {
+        "lunes_viernes": "09:00 AM - 10:00 PM",
+        "sabado": "09:00 AM - 10:00 PM",
+        "domingo": "09:00 AM - 10:00 PM"
+      },
+      "redes_sociales": {
+        "instagram": "@pollitopio",
+        "instagram_url": "#"
+      }
+    }
+  },
+  {
+    "empresa": {
+      "id": "1",
+      "nombre": "UHMO",
+      "descripcion": "Somos Flexishop",
+      "logo": "https://res.cloudinary.com/druvz15q9/image/upload/v1737944975/uhmoLogo_brdqoe.jpg",
+      "direccion": {
+        "calle": "Av. Junin 544",
+        "ciudad": "San Miguel de Tucumán",
+        "provincia": "Tucumán",
+        "codigo_postal": "4000",
+        "pais": "Argentina"
+      },
+      "contacto": {
+        "telefono": "+54 381 399 4145",
+        "whatsapp": "+54 381 399 4145",
+        "email": "soporte.web@uhmo.com.ar",
+        "pagina_web": "https://uhmo.com.ar"
+      },
+      "horarios": {
+        "lunes_viernes": "09:00 AM - 09:00 PM",
+        "sabado": "10:00 AM - 02:00 PM",
+        "domingo": "Cerrado"
+      },
+      "redes_sociales": {
+        "instagram": "@uhmodesarrollos",
+        "instagram_url": "https://www.instagram.com/uhmo"
+      }
+    }
+  }
+]
