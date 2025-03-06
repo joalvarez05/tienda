@@ -52,7 +52,11 @@ function Navbar() {
   };
 
   if (isLoading) {
-    return <div>Loading...</div>;
+    return (
+      <div className="w-full flex justify-center">
+        <span className="loader"></span>
+      </div>
+    );
   }
 
   if (isError) {
