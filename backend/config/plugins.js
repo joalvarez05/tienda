@@ -4,4 +4,5 @@ module.exports = ({ env }) => ({
       jwtSecret: env("ADMIN_JWT_SECRET"),
     },
   },
+  apiToken: env("STRAPI_API_TOKEN"),
 });
