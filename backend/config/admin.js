@@ -2,7 +2,7 @@ module.exports = ({ env }) => ({
   auth: {
     secret: env("ADMIN_JWT_SECRET"),
   },
-  api_token: {
+  "api-token": {
     salt: env("API_TOKEN_SALT"),
   },
   transfer: {
@@ -14,6 +14,6 @@ module.exports = ({ env }) => ({
     nps: env.bool("FLAG_NPS", true),
     promoteEE: env.bool("FLAG_PROMOTE_EE", true),
   },
-    url: "/admin", 
+  url: "/admin",
   serveAdminPanel: true,
 });
