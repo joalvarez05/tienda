@@ -2,20 +2,22 @@
 
 # 🛒 About the Project
 FlexiShop is a general eCommerce template designed to help individuals and small businesses establish an online presence without the high costs of custom web development, hosting, and domain registration. Our goal is to offer an affordable monthly subscription that makes having an online store accessible to everyone. In 2025, no one should be left without the opportunity to showcase their business on the internet.
-We are going to create the most affordable store in northern Argentina
+We are going to create the most affordable store in northern Argentina.
 # 🎯 Features
 Pre-built eCommerce template with customizable brand logo and product details.
 Admin panel to manage products (create, update, delete, and view).
 Shopping cart to add products and place orders via a simple checkout form.
 
 ## 🛠 Tech Stack
-Frontend: React.js
-Backend: Express.js & SQLite 
-Global State: Zustand (lightweight and easy to use)
-Forms: React Hook Form (simple and seamless integration)
-Toasts & Notifications: React Hot Toast
-Icons: React Icons (optimized for minimal weight)
-Routing: React Router Dom (client-side navigation)
+Frontend: Astro for the Landing Page and React.js with Vite for the dynamic views.
+Backend: Java + SpringBoot.
+DDBB: PostgreSQL.
+Global State: Zustand (lightweight and easy to use).
+Forms: React Hook Form (simple and seamless integration).
+Toasts & Notifications: React Hot Toast.
+Icons: React Icons (optimized for minimal weight).
+Routing: React Router Dom, Astro routing.
+Deploy: VPS with docker and nginx for load balancer.
 #### 📌 DEMO 
 
 
@@ -33,13 +35,15 @@ Contiene plantilla general con logo e info de la marca y sus productos. Un carri
 Contiene panel de administrador para gestionar sus productos ( ver,crear,actualizar y eliminar productos).
 
 # Stack Utilizado:
-
-## React Js, SQLite, Express.
-
-Zustand: Manejo de estados globales, liviana y facil de implementar.
-React Hook Forms: Manejo de formularios, facil integración.
-React Hot Toast: Para las Toasts.
-React Icons: Iconos, elegida por el pequeño peso de sus iconos.
-React Router Dom: Manejo de rutas del lado del cliente.
+Frontend: Astro para la Landing Page y React.js con Vite para las pantallas dinamicas.
+Backend: Java + SpringBoot.
+DDBB: PostgreSQL.
+Estados globales: Zustand, liviana y facil de implementar.
+Formularios: React Hook Forms: Manejo de formularios, facil integración.
+Toast/Alertas: React Hot Toast.
+Iconos: React Icons, elegida por el pequeño peso de sus iconos.
+Routing: React Router Dom y Astro routing.
+Deploy: VPS con docker y Nginx para balanceadores de carga.
 
 #### DEMO 
+https://uhmostore.netlify.app/
